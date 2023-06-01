@@ -3,8 +3,13 @@
 
 
 
+![CFG_Graph](https://github.com/DamjanIlievski12/SI_2023_lab2_213273/assets/128407267/17da0ab8-755d-4c4b-b50e-b0061cd1aa9b)
 
-![CFG_Graph](https://github.com/DamjanIlievski12/SI_2023_lab2_213273/assets/128407267/c0ffdcbb-5b0b-4e35-92b5-fb7684864271)  
+
+
+
+
+
 Цикломатската комплексност е 11. Резултатот го добив броејќи ги сите затворени региони во графот + надворешниот регион. Може да се пресмета и преку бројот на предикатни јазли + 1.
 
 EVERY BRANCH
